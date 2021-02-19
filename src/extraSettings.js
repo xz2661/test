@@ -31,7 +31,7 @@ let fruitSlowDown = false;
 let adLink = 'https://c.y.qq.com/base/fcgi-bin/u?__=L71S7ox';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大攀攀';
+document.getElementsByTagName("title")[0].innerText = '合成西瓜攀';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
